@@ -1,0 +1,6 @@
+id_laporan,aset,latitude,longitude,status
+L001,Pohon miring,-3.8002,102.265,Perlu diperiksa
+L002,Lampu jalan,-3.812,102.271,Dalam proses
+L003,Drainase,-3.79,102.25,Perlu diperiksa
+L004,Taman kota,-3.825,102.26,Selesai
+L005,Rambu jalan,-3.805,102.28,Perlu diperiksa
